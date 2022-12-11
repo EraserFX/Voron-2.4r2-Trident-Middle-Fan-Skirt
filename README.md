@@ -1,4 +1,4 @@
-# Voron-2.4r2-Middle-Fan-Skirt
+# Voron-2.4r2/Trident-Middle-Fan-Skirt
 This is the Release Version Middle Skirt
 ![](/images/Middle%20Skirt%20Release%20Version.jpg)
 This is my Modified Middle Skirt
